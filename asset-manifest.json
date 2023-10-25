@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/test_task_ryzhaknode/static/css/main.83f6f246.css",
+    "main.js": "/test_task_ryzhaknode/static/js/main.2efa5cdb.js",
+    "static/js/124.1cb4123f.chunk.js": "/test_task_ryzhaknode/static/js/124.1cb4123f.chunk.js",
+    "static/js/81.c26f4adb.chunk.js": "/test_task_ryzhaknode/static/js/81.c26f4adb.chunk.js",
+    "static/js/364.c854900d.chunk.js": "/test_task_ryzhaknode/static/js/364.c854900d.chunk.js",
+    "index.html": "/test_task_ryzhaknode/index.html",
+    "main.83f6f246.css.map": "/test_task_ryzhaknode/static/css/main.83f6f246.css.map",
+    "main.2efa5cdb.js.map": "/test_task_ryzhaknode/static/js/main.2efa5cdb.js.map",
+    "124.1cb4123f.chunk.js.map": "/test_task_ryzhaknode/static/js/124.1cb4123f.chunk.js.map",
+    "81.c26f4adb.chunk.js.map": "/test_task_ryzhaknode/static/js/81.c26f4adb.chunk.js.map",
+    "364.c854900d.chunk.js.map": "/test_task_ryzhaknode/static/js/364.c854900d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83f6f246.css",
+    "static/js/main.2efa5cdb.js"
+  ]
+}

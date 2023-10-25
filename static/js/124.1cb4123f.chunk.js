@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktest_task_ryzhaknode=self.webpackChunktest_task_ryzhaknode||[]).push([[124],{124:function(e,t,s){s.r(t);var n=s(184);t.default=function(){return(0,n.jsx)("table",{children:(0,n.jsx)("tbody",{children:(0,n.jsxs)("tr",{children:[(0,n.jsx)("td",{children:"Dummy"}),(0,n.jsx)("td",{children:"Table"})]})})})}}}]);
+//# sourceMappingURL=124.1cb4123f.chunk.js.map

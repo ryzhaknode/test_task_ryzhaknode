@@ -1,0 +1,19 @@
+.navigation {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    padding: 1rem;
+    background-color: #000000;
+}
+
+.link{
+    text-decoration: none;
+    color: #ffffff;
+    transition: color 0.3s ease;
+
+}
+
+.link:hover{
+    color: #37accb;
+}
